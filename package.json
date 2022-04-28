@@ -1,0 +1,8 @@
+{
+  "name": "dirty-fields",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "VPetar <freeze.988@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
