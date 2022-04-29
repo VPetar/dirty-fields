@@ -13,6 +13,7 @@ const dirtyFields = (target) => {
       }
       obj.__dirty_fields[[prop]] = value;
       obj[prop] = value;
+      return true;
     },
   });
 
@@ -36,6 +37,7 @@ const dirtyFields = (target) => {
         },
       });
       target[key] = arrayProxy;
+      return true;
     }
   });
 
