@@ -1,6 +1,6 @@
 {
   "name": "dirty-fields",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "src/index.js",
   "author": "VPetar <freeze.988@gmail.com>",
   "license": "MIT",
